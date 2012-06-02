@@ -1,0 +1,7 @@
+- ptv.tcl: added one line to menu: Sequence with the flag = 3(goes into sequence_proc_c)
+- jw_ptv.c: sequence_proc_c: added option of flag = 3 (sequence for sobel, no determination)
+- jw_ptv.c: correspondences_proc_c: added option of flag == 3, sobel option, translate _targets to rt_is
+- jw_ptv.c: sobel works for a single camera so far, to update later for 4 views
+- tools.c: includes read_raw subroutine
+- jw_ptv.c changed to have reading of _targets and then changed again to read raw data directly. 
+- tools.c: read_raw is working when 8 digits 00009197.raw files are located in /img/ directory

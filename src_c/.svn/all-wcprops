@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/ptv/!svn/ver/1/branches/Sobel_2DPTV/src_c
+END
+mousefunction.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ptv/!svn/ver/1/branches/Sobel_2DPTV/src_c/mousefunction.c
+END
+intersect.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/ptv/!svn/ver/1/branches/Sobel_2DPTV/src_c/intersect.c
+END
+ray_tracing.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/ptv/!svn/ver/1/branches/Sobel_2DPTV/src_c/ray_tracing.c
+END
+vrml2.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/ptv/!svn/ver/1/branches/Sobel_2DPTV/src_c/vrml2.c
+END
+imgcoord.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/ptv/!svn/ver/1/branches/Sobel_2DPTV/src_c/imgcoord.c
+END
+libtiff.lib
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/ptv/!svn/ver/1/branches/Sobel_2DPTV/src_c/libtiff.lib
+END
+track.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/ptv/!svn/ver/1/branches/Sobel_2DPTV/src_c/track.c
+END
+peakfitting.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/ptv/!svn/ver/1/branches/Sobel_2DPTV/src_c/peakfitting.c
+END
+changes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/ptv/!svn/ver/1/branches/Sobel_2DPTV/src_c/changes.txt
+END
+jw_ptv.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/ptv/!svn/ver/1/branches/Sobel_2DPTV/src_c/jw_ptv.c
+END
+pointpos.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/ptv/!svn/ver/1/branches/Sobel_2DPTV/src_c/pointpos.c
+END
+epi.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/ptv/!svn/ver/1/branches/Sobel_2DPTV/src_c/epi.c
+END
+multimed.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/ptv/!svn/ver/1/branches/Sobel_2DPTV/src_c/multimed.c
+END
+demo.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/ptv/!svn/ver/1/branches/Sobel_2DPTV/src_c/demo.c
+END
+jw_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/ptv/!svn/ver/1/branches/Sobel_2DPTV/src_c/jw_main.c
+END
+ttools.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/ptv/!svn/ver/1/branches/Sobel_2DPTV/src_c/ttools.c
+END
+change_parameter.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ptv/!svn/ver/1/branches/Sobel_2DPTV/src_c/change_parameter.c
+END
+jw_ImgFmtTIF.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/ptv/!svn/ver/1/branches/Sobel_2DPTV/src_c/jw_ImgFmtTIF.c
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/ptv/!svn/ver/1/branches/Sobel_2DPTV/src_c/resource.h
+END
+correspondences.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ptv/!svn/ver/1/branches/Sobel_2DPTV/src_c/correspondences.c
+END
+sortgrid.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/ptv/!svn/ver/1/branches/Sobel_2DPTV/src_c/sortgrid.c
+END
+segmentation.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/ptv/!svn/ver/1/branches/Sobel_2DPTV/src_c/segmentation.c
+END
+pointpos_Markus.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ptv/!svn/ver/1/branches/Sobel_2DPTV/src_c/pointpos_Markus.c
+END
+draw.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/ptv/!svn/ver/1/branches/Sobel_2DPTV/src_c/draw.c
+END
+rotation.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/ptv/!svn/ver/1/branches/Sobel_2DPTV/src_c/rotation.c
+END
+tools.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/ptv/!svn/ver/1/branches/Sobel_2DPTV/src_c/tools.c
+END
+ptv.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/ptv/!svn/ver/1/branches/Sobel_2DPTV/src_c/ptv.c
+END
+checkpoints.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/ptv/!svn/ver/1/branches/Sobel_2DPTV/src_c/checkpoints.c
+END
+trafo.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/ptv/!svn/ver/1/branches/Sobel_2DPTV/src_c/trafo.c
+END
+ptv.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/ptv/!svn/ver/1/branches/Sobel_2DPTV/src_c/ptv.h
+END
+image_processing.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ptv/!svn/ver/1/branches/Sobel_2DPTV/src_c/image_processing.c
+END
+lsqadj.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/ptv/!svn/ver/1/branches/Sobel_2DPTV/src_c/lsqadj.c
+END
+vrml.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/ptv/!svn/ver/1/branches/Sobel_2DPTV/src_c/vrml.c
+END
+tk.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/ptv/!svn/ver/1/branches/Sobel_2DPTV/src_c/tk.h
+END
+tiffio.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/ptv/!svn/ver/1/branches/Sobel_2DPTV/src_c/tiffio.h
+END
+tcl.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/ptv/!svn/ver/1/branches/Sobel_2DPTV/src_c/tcl.h
+END
+globals.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/ptv/!svn/ver/1/branches/Sobel_2DPTV/src_c/globals.h
+END
+typedefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/ptv/!svn/ver/1/branches/Sobel_2DPTV/src_c/typedefs.h
+END
+orientation.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/ptv/!svn/ver/1/branches/Sobel_2DPTV/src_c/orientation.c
+END
+tiff.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/ptv/!svn/ver/1/branches/Sobel_2DPTV/src_c/tiff.h
+END
+mousefunctionOld.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ptv/!svn/ver/1/branches/Sobel_2DPTV/src_c/mousefunctionOld.c
+END
+tiffvers.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/ptv/!svn/ver/1/branches/Sobel_2DPTV/src_c/tiffvers.h
+END

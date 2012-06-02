@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ptv/!svn/ver/1/branches/Sobel_2DPTV/test_Sobel_2D/parameters
+END
+orient.par
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ptv/!svn/ver/1/branches/Sobel_2DPTV/test_Sobel_2D/parameters/orient.par
+END
+criteria.par
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ptv/!svn/ver/1/branches/Sobel_2DPTV/test_Sobel_2D/parameters/criteria.par
+END
+track.par
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/ptv/!svn/ver/1/branches/Sobel_2DPTV/test_Sobel_2D/parameters/track.par
+END
+sequence.par
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ptv/!svn/ver/1/branches/Sobel_2DPTV/test_Sobel_2D/parameters/sequence.par
+END
+cal_ori.par
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ptv/!svn/ver/1/branches/Sobel_2DPTV/test_Sobel_2D/parameters/cal_ori.par
+END
+ptv.par
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/ptv/!svn/ver/1/branches/Sobel_2DPTV/test_Sobel_2D/parameters/ptv.par
+END
+pft_version
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ptv/!svn/ver/1/branches/Sobel_2DPTV/test_Sobel_2D/parameters/pft_version
+END
+shaking.par
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ptv/!svn/ver/1/branches/Sobel_2DPTV/test_Sobel_2D/parameters/shaking.par
+END
+man_ori.par
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ptv/!svn/ver/1/branches/Sobel_2DPTV/test_Sobel_2D/parameters/man_ori.par
+END
+targ_rec.par
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ptv/!svn/ver/1/branches/Sobel_2DPTV/test_Sobel_2D/parameters/targ_rec.par
+END
+examine.par
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ptv/!svn/ver/1/branches/Sobel_2DPTV/test_Sobel_2D/parameters/examine.par
+END
+multi_planes.par
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ptv/!svn/ver/1/branches/Sobel_2DPTV/test_Sobel_2D/parameters/multi_planes.par
+END
+calblock_field
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ptv/!svn/ver/1/branches/Sobel_2DPTV/test_Sobel_2D/parameters/calblock_field
+END
+sortgrid.par
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ptv/!svn/ver/1/branches/Sobel_2DPTV/test_Sobel_2D/parameters/sortgrid.par
+END
+detect_plate.par
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ptv/!svn/ver/1/branches/Sobel_2DPTV/test_Sobel_2D/parameters/detect_plate.par
+END
