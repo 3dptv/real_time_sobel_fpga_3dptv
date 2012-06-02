@@ -5,8 +5,7 @@ that works with the RAW data obtained using the MC1324 Sobel camera through GigE
 MC1324 is operated through Coyette or GenDEV applications, produces RAW binary
 files per image (at 500 frames per second). The files include only the objects of
 identified particles. More information is available from Mark Kreizer's manual on 
-the wiki site of the Turbulence Structure Laboratory (http://www.eng.tau.ac.il/efdl)
-
+the wiki site of the [Turbulence Structure Laboratory](http://www.eng.tau.ac.il/~alexlib/efdl/pmwiki.php?n=People.MarkKreizer)
 
 ## Installation: ##
 
