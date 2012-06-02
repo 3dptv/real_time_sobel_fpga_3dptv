@@ -7,6 +7,42 @@ files per image (at 500 frames per second). The files include only the objects o
 identified particles. More information is available from Mark Kreizer's manual on 
 the wiki site of the [Turbulence Structure Laboratory](http://www.eng.tau.ac.il/~alexlib/efdl/pmwiki.php?n=People.MarkKreizer)
 
+## How to cite this work 
+
+Two dimensional case:
+~~~
+@article {springerlink:10.1007/s00348-009-0715-5,
+   author = {Kreizer, Mark and Ratner, David and Liberzon, Alex},
+   affiliation = {Turbulence Structure Laboratory, School of Mechanical Engineering, Tel Aviv University, Tel Aviv, Israel},
+   title = {Real-time image processing for particle tracking velocimetry},
+   journal = {Experiments in Fluids},
+   publisher = {Springer Berlin / Heidelberg},
+   pages = {105-110},
+   volume = {48},
+   issue = {1},
+   url = {http://dx.doi.org/10.1007/s00348-009-0715-5},
+   note = {10.1007/s00348-009-0715-5},
+   year = {2010}
+}
+~~~
+
+Three dimensional case using four view optical image splitter
+~~~
+@article {springerlink:10.1007/s00348-010-0964-3,
+   author = {Kreizer, Mark and Liberzon, Alex},
+   affiliation = {Turbulence Structure Laboratory, School of Mechanical Engineering, Tel Aviv University, Ramat Aviv, 69978 Israel},
+   title = {Three-dimensional particle tracking method using FPGA-based real-time image processing and four-view image splitter},
+   journal = {Experiments in Fluids},
+   publisher = {Springer Berlin / Heidelberg},
+   pages = {613-620},
+   volume = {50},
+   issue = {3},
+   url = {http://dx.doi.org/10.1007/s00348-010-0964-3},
+   note = {10.1007/s00348-010-0964-3},
+   year = {2011}
+}
+~~~
+
 ## Installation: ##
 
 1. Get ActiveTCL, install it in C:\Tcl (if different directory is used, compilation is necessary)
